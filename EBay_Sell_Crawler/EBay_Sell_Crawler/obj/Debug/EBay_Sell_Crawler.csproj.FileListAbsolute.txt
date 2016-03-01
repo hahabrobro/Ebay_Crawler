@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\bin\EBay_Sell_Crawler.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\bin\EBay_Sell_Crawler.dll
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\bin\EBay_Sell_Crawler.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\obj\Debug\EBay_Sell_Crawler.dll
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\obj\Debug\EBay_Sell_Crawler.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\obj\Debug\EBay_Sell_Crawler.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2013\Projects\EBay_Sell_Crawler\EBay_Sell_Crawler\bin\zh-Hant\EntityFramework.resources.dll
